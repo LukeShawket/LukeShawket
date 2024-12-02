@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there👋
+Welcome to my Github
 
 - 🔭 I’m currently working on multiple small Python projects.
 - 🌱 I’m currently learning Python.
