@@ -1,9 +1,9 @@
-## Hi there👋
+## Hi there, I'm Luke👋
 ## Welcome to my Github
 
-- 🔭 I’m currently working on multiple small Python projects.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on any of my projects.
-- 🤔 I’m looking for Python job.
+- 🔭 I’m currently working on Python projects to build my portfolio
+- 🌱 I’m currently learning Advanced Python concepts and more with Python
+- 👯 I’m looking to collaborate on open source Python projects
+- 🤔 I’m looking for help with landing my first Python job
 - 📫 How to reach me: Lukeshawket@outlook.com
 -->
