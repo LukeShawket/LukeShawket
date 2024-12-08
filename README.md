@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning Advanced Python concepts and more with Python
 - 👯 I’m looking to collaborate on open source Python projects
 - 🤔 I’m looking for help with landing my first Python job
-- 🎮 This is some game projects I made with C# x Unity: https://feruqq.itch.io/
+- 🎮 This is some game projects I made: https://feruqq.itch.io/
 - 📫 How to reach me: Lukeshawket@outlook.com
 -->
