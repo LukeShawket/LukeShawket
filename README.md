@@ -1,6 +1,5 @@
 ## Hi there, I'm Luke👋
-
-![gitprofile](https://github.com/user-attachments/assets/f52b6cd4-7705-425d-ae48-bb2afef2eeda)
+![gitprofile](https://github.com/user-attachments/assets/a760e778-366a-4b44-bd64-8027acbb743e)
 
 - 🔭 I’m currently working on Python projects to build my portfolio
 - 🌱 I’m currently learning Advanced Python concepts and more with Python
