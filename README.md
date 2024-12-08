@@ -6,4 +6,6 @@
 - 🤔 I’m looking for help with landing my first Python job
 - 🎮 This is some game projects I made: https://feruqq.itch.io/
 - 📫 How to reach me: Lukeshawket@outlook.com
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeShawket&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeShawket&show_icons=true&theme=tokyonight)
+
