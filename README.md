@@ -7,6 +7,6 @@
 - 🎮 This is some game projects I made: https://feruqq.itch.io/
 - 📫 How to reach me: Lukeshawket@outlook.com
 
-https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeShawket&show_icons=true&theme=tokyonight)
 
