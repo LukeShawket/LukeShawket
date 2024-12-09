@@ -1,6 +1,4 @@
 ## Hi there, I'm Luke👋
-![git_header](https://github.com/user-attachments/assets/c56e4d10-3366-4b2b-993b-f8868736c122)
-
 
 - 🔭 I’m currently working on Python projects to build my portfolio
 - 🌱 I’m currently learning Advanced Python concepts and more with Python
