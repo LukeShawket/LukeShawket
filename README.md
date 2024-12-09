@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Python projects to build my portfolio](https://github.com/LukeShawket?tab=repositories)
 
-- 🌱 I’m currently learning **Advanced Python concepts and more with Python**
+- 🌱 I’m currently learning [Advanced Python concepts and more with Python](https://www.udemy.com/course/100-days-of-code/?couponCode=24T3MT120924)
 
 - 👯 I’m looking to collaborate on **open source Python projects**
 
