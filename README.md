@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luke Shawket</h1>
-<h3 align="center">A aspiring Python developer, self-taught game developer</h3>    
+<h3 align="center">A aspiring Python developer, self-taught programmer</h3>    
 
 ![git_header](https://github.com/user-attachments/assets/2b11f398-60bc-475d-bd8f-4e58b65cde14)
 
