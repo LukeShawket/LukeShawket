@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/luke-shawket-09206b321/](https://www.linkedin.com/in/luke-shawket-09206b321/)
 
-- ⚡ Fun fact **I started learning programming after I graduated college**
+- ⚡ Fun fact **Coding is fun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
