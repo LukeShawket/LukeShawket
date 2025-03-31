@@ -7,7 +7,7 @@
 <h4 align="center"> Game Development: I do game development as a hobby. Skilled in Unity, C#, Godot, and GD Script.
 
 <h1 align="center">📂 Projects That Define Me</h1>
-<h4 align="center"><a href="https://github.com/LukeShawket/NutriCraft-Nutrition-Powered-Food-Guide">NutriCraft</a>: Your personal nutrition assistant with dynamic insights and interactive visualizations.
+<h4 align="center"><a href="https://github.com/LukeShawket/NutriCraft-Nutrition-Powered-Food-Guide">NutriCraft</a>: A personal nutrition assistant with dynamic insights and interactive visualizations.
 <h4 align="center"><a href="https://github.com/LukeShawket/Stock-News-Alert">Stock News Alert</a>: A streamlined app delivering real-time stock news for informed decisions.
 <h4 align="center"><a href="https://github.com/LukeShawket/Gravity-Runner-Godot-Game">Gravity Runner</a>: A personal hobby project I've been working on.
 
