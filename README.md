@@ -8,7 +8,7 @@
 
 <h1 align="center">📂 Projects That Define Me</h1>
 <h4 align="center"><a href="https://github.com/LukeShawket/NutriCraft-Nutrition-Powered-Food-Guide">NutriCraft</a>: A personal nutrition assistant with dynamic insights and interactive visualizations.
-<h4 align="center"><a href="https://github.com/LukeShawket/Stock-News-Alert">Stock News Alert</a>: A streamlined app delivering real-time stock news for informed decisions.
+<h4 align="center"><a href="https://github.com/LukeShawket/SkillMatch-Data-Job-Matcher">Data Job Matcher</a>: A app that can help you dig into your resume then give you matching jobs.
 <h4 align="center"><a href="https://github.com/LukeShawket/Gravity-Runner-Godot-Game">Gravity Runner</a>: A personal hobby project I've been working on.
 
 <h1 align="center">💡 What Drives Me</h1>
