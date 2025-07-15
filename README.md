@@ -9,7 +9,7 @@
 <h1 align="center">📂 Projects That Define Me</h1>
 <h4 align="center"><a href="https://github.com/LukeShawket/NutriCraft-Nutrition-Powered-Food-Guide">NutriCraft</a>: A personal nutrition assistant with dynamic insights and interactive visualizations.
 <h4 align="center"><a href="https://github.com/LukeShawket/SkillMatch-Data-Job-Matcher">Data Job Matcher</a>: A app that can help you dig into your resume then give you matching jobs.
-<h4 align="center"><a href="https://github.com/LukeShawket/Gravity-Runner-Godot-Game">Gravity Runner</a>: A personal hobby project I've been working on.
+<h4 align="center"><a href="https://github.com/LukeShawket/Customer-Churn-Predictive-Modeling">Customer Churn Predictive Modeling</a>: A personal hobby project I've been working on.
 
 <h1 align="center">💡 What Drives Me</h1>
 <h4 align="center">I love turning data into actionable insights that solve practical problems. From creating clear visualizations to optimizing tools for efficiency, I focus on making data meaningful and easy to use. My goal is to help others make informed decisions through straightforward and impactful solutions.
