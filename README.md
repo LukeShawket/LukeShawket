@@ -30,5 +30,3 @@
     <img src="https://skillicons.dev/icons?i=py,pycharm,git,github,blender,cs,dotnet,godot,mysql,powershell,r,stackoverflow,unity,visualstudio,vscode," />
   </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukeshawket&show_icons=true&theme=tokyonight&locale=en" alt="lukeshawket" /></p>
