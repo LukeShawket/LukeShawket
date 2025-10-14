@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luke Shawket</h1>
+<h1 align="center">Hi, I'm Luke Shawket</h1>
 <h3 align="center">An aspiring data analyst, dedicated learner, problem-solver, and creator.</h3>    
 
 <h1 align="center">I specialize in ⬇️</h1>
