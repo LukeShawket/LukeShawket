@@ -1,19 +1,5 @@
-<h1 align="center">Hi, I'm Luke Shawket</h1>
-<h3 align="center">An aspiring data analyst, dedicated learner, problem-solver, and creator.</h3>    
-
-<h1 align="center">I specialize in ⬇️</h1>
-<h4 align="center"> Data Analysis & Visualization: Proficient in Python, SQL, Tableau, Excel, Pandas, Plotly and some other Python libraries.
-<h4 align="center"> App Development: Experience in crafting impactful tools like NutriCraft, Stock News Alert and Password Manager.
-<h4 align="center"> Game Development: I do game development as a hobby. Skilled in Unity, C#, Godot, and GD Script.
-
-<h1 align="center">📂 Projects That Define Me</h1>
-<h4 align="center"><a href="https://github.com/LukeShawket/NutriCraft-Nutrition-Powered-Food-Guide">NutriCraft</a>: A personal nutrition assistant with dynamic insights and interactive visualizations.
-<h4 align="center"><a href="https://github.com/LukeShawket/SkillMatch-Data-Job-Matcher">Data Job Matcher</a>: A app that can help you dig into your resume then give you matching jobs.
-<h4 align="center"><a href="https://github.com/LukeShawket/Customer-Churn-Predictive-Modeling">Customer Churn Predictive Modeling</a>: This project aims to predict customer churn using Logistic Regression and SMOTE to address class imbalance. 
-
-<h1 align="center">💡 What Drives Me</h1>
-<h4 align="center">I love turning data into actionable insights that solve practical problems. From creating clear visualizations to optimizing tools for efficiency, I focus on making data meaningful and easy to use. My goal is to help others make informed decisions through straightforward and impactful solutions.
-
+<h1 align="center">Hi, Welcome!</h1>
+<h3 align="center"></h3>    
 ---
 
 
