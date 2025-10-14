@@ -1,8 +1,4 @@
 <h1 align="center">Hi, Welcome!</h1>
-<h3 align="center"></h3>    
----
-
-
 <h4 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/Feruqq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lukeshawket" height="30" width="40" /></a>
